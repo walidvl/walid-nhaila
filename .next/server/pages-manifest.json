@@ -1,0 +1,13 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/about/about-dark": "pages/about/about-dark.html",
+  "/about/about-light": "pages/about/about-light.html",
+  "/contact/contact-dark": "pages/contact/contact-dark.html",
+  "/contact/contact-light": "pages/contact/contact-light.html",
+  "/demos/dark": "pages/demos/dark.html",
+  "/demos/demos": "pages/demos/demos.html",
+  "/": "pages/index.html",
+  "/_error": "pages/_error.js"
+}
